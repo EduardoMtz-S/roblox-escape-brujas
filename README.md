@@ -21,17 +21,15 @@ Los jugadores inician en un **lobby**, desde donde son teletransportados a la **
 
 ## 📸 Capturas del juego
 
-### Lobby
-![Lobby](Lobby.jpg)
+<p align="center">
+  <img src="Lobby.jpg" alt="Lobby" width="45%"/>
+  <img src="PuertaSecreta.jpg" alt="Puerta secreta" width="45%"/>
+</p>
 
-### Puerta secreta
-![Puerta secreta](PuertaSecreta.jpg)
-
-### Interacción
-![Interacción](Interaccion.jpg)
-
-### Puerta
-![Puerta](Puerta.jpg)
+<p align="center">
+  <img src="Interaccion.jpg" alt="Interacción" width="45%"/>
+  <img src="Puerta.jpg" alt="Puerta" width="45%"/>
+</p>
 
 ---
 
