@@ -19,8 +19,19 @@ Los jugadores inician en un **lobby**, desde donde son teletransportados a la **
 
 ---
 
-## 📸 Capturas
-*(Agrega imágenes del lobby y de la mansión desde Roblox Studio o dentro del juego)*  
+## 📸 Capturas del juego
+
+### Lobby
+![Lobby](Lobby.jpg)
+
+### Puerta secreta
+![Puerta secreta](PuertaSecreta.jpg)
+
+### Interacción
+![Interacción](Interaccion.jpg)
+
+### Puerta
+![Puerta](Puerta.jpg)
 
 ---
 
